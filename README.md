@@ -44,7 +44,11 @@ GIF created with ...
     - sharing a thought feature 
     
     App Idea:
-    Gym app that allows users to add each other and update their status on when they are going to the gym, what muscle group they wish to work, and the duration of the workout. Users will be able to not only track their workout time, but also track their goals whether it be a certain number of reps done or a certain amount of weight lifted for a particular exercise. Users should also have the opportunity to message or ping a friend if they plan on working out together.
+    Gym app that allows users to add each other and update their status on when they are going to the gym, 
+    what muscle group they wish to work, and the duration of the workout. 
+    Users will be able to not only track their workout time,
+    but also track their goals whether it be a certain number of reps done or a certain amount of weight lifted for a particular exercise. 
+    Users should also have the opportunity to message or ping a friend if they plan on working out together.
     
 ## Notes
 Working on familiarizing myself with Xcode and using swift as the programming language. 
